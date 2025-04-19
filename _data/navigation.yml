@@ -1,5 +1,8 @@
 pages:
 - name: Home
-  url: ./
+  url: /
 - name: Publications
-  url: publications
+  url: /publications
+- name: Blog
+  url: /blog
+
