@@ -9,7 +9,7 @@ pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Jou
 pub_date:       "2025"
 
 abstract: >-
-    This paper explores coupled magneto-mechanical growth in hyperelastic materials, focusing on surface pattern modulation and shape control for bio-inspired structures with potential applications in adaptive materials and structures.
+  This paper explores coupled magneto-mechanical growth in hyperelastic materials, focusing on surface pattern modulation and shape control for bio-inspired structures with potential applications in adaptive materials and structures.
   
 cover:          assets/images/covers/2025-Biodegradable-power-sources.PNG
 authors:
