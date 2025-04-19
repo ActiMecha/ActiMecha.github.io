@@ -1,5 +1,5 @@
 ---
-title:          Coupled magneto-mechanical growth in hyperelastic materials: Surface patterns modulation and shape control in bio-inspired structures
+title:          Coupled magneto-mechanical growth in hyperelastic materials：Surface patterns modulation and shape control in bio-inspired structures
 date:           2025-03-03 00:01:00 +0800
 selected:       False
 pub:            "Journal of the Mechanics and Physics of Solids, Volume 200, Article 106089"
