@@ -11,10 +11,10 @@ abstract: >-
 
 cover:          assets/images/covers/2024-bioinspired-hydrogel.PNG
 authors:
-  - YH Feng
-  - YF Wang
-  - CJ Chen
-  - ZH Wang
+  - Yinghui Feng
+  - Yafei Wang
+  - Chaoji Chen
+  - Zhaohui Wang
   - Ji Liu†
 links:
   Paper: https://www.the-innovation.org/article/doi/10.59717/j.xinn-mater.2024.100105
