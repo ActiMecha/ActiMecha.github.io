@@ -4,7 +4,7 @@ date:           2025-01-17 00:01:00 +0800
 selected:       False
 pub:            "Chinese Journal of Applied Mechanics, 2025, 42(1), 17-28"
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
-pub_date:       "2025"
+#pub_date:       "2025"
 
 abstract: >-
   This study shows that dynamic instability and strength degradation in curved beams are mainly influenced by initial height and lateral pulse velocity, with minimal impact from viscous damping.
