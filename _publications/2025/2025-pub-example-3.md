@@ -18,9 +18,9 @@ authors:
   - Qiang Tao
   - Changguo Wang
 links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0022509625000651
+  Paper: https://pubs.cstam.org.cn/article/doi/10.11776/j.issn.1000-4939.2025.01.017
   #Poster: assets/images/poster/icml2024-ws.jpeg
-  PDF: assets/pdf/dynamic_instability_curved_beams.pdf
-  Cite: assets/bibtex/dynamic_instability_curved_beams.html
+  PDF: assets/pdf/dynamic_instability.pdf
+  Cite: assets/bibtex/dynamic_instability.html
 
 ---
