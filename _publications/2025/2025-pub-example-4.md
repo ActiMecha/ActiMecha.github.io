@@ -1,6 +1,6 @@
 ---
 title:          Conducting Hydrogel-Based Neural Biointerfacing Technologies
-date:           2025-01-01 00:00:00 +0800
+date:           2025-01-28 00:00:00 +0800
 selected:       False
 pub:            "Advanced Functional Materials, 2025, 2422869"
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
