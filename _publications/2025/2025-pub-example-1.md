@@ -2,11 +2,11 @@
 title:          Biodegradable power sources for transient bioelectronics
 date:           2025-12-01 00:01:00 +0800
 selected:       False
-pub:            "Supramolecular Materials, Volume 4, Article 100082"
+pub:            "Supramolecular Materials, 2024, 4(1), 100082"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
-pub_date:       "2025"
+#pub_date:       "2025"
 
 abstract: >-
   Biodegradable power sources provide temporary energy for implantable bioelectronics through storage, harvesting, and transfer, with future research focusing on improving biocompatibility, energy density, and degradation control.
