@@ -1,24 +1,30 @@
 ---
-title:          Fine-Tuning Medical Language Models for Enhanced Long-Contextual Understanding and Domain Expertise
-date:           2024-06-18 00:01:00 +0800
-selected:       true
-pub:            "Long-Context Foundation Models (LCFM) at ICML 2024"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+title:          Electroactive differential growth and delayed instability in accelerated healing tissues
+date:           2024-01-01 00:00:00 +0800
+selected:       True
+pub:            "Journal of the Mechanics and Physics of Solids, 2024, 105867"
+pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
 pub_date:       "2024"
 
 abstract: >-
-  This study investigates the decline in long-context understanding for medical LLMs after domain-specific fine-tuning, conducting experiments to determine the best composition of general and medical training data to balance diagnostic knowledge with comprehensive reading abilities.
-  
-cover:          assets/images/covers/lcfm_lc.png
+  This paper explores electroactive differential growth and delayed instability in accelerated healing tissues, with an emphasis on their mechanical and biological implications in tissue engineering.
+
+cover:          assets/images/covers/2024-electroactive-growth.PNG
 authors:
-  - Qimin Yang
-  - Rongsheng Wang
-  - Jiexin Chen
-  - Runqi Su
-  - Tao Tan†
+  - Yafei Wang
+  - Zhanfeng Li
+  - Xingmei Chen
+  - Yun Tan
+  - Fucheng Wang
+  - Yangkun Du
+  - Yunce Zhang
+  - Yipin Su
+  - Fan Xu†
+  - Changguo Wang†
+  - Weiqiu Chen
+  - Ji Liu†
 links:
-  Paper: https://arxiv.org/abs/2407.11536
-  Poster: assets/images/poster/icml2024-ws.jpeg
+  Paper: https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids
+  PDF: assets/pdf/electroactive_growth.pdf
+  Cite: assets/bibtex/electroactive_growth.html
 ---
