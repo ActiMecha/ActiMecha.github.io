@@ -27,4 +27,3 @@ links:
   Cite: assets/bibtex/coupled_magnetomechanical_growth.html
 
 ---
-
