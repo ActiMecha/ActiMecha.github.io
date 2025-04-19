@@ -24,7 +24,7 @@ authors:
   - Huicun Gu
   - Yafei Wang
   - Zongbao Wang
-  - Lin Zeng
+  - Lin Zeng†
   - Ji Liu†
 links:
   Paper: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202407050
