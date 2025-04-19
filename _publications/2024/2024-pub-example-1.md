@@ -4,7 +4,7 @@ date:           2024-12-01 00:00:00 +0800
 selected:       True
 pub:            "Journal of the Mechanics and Physics of Solids, 2024, 105867"
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
-pub_date:       "2024"
+#pub_date:       "2024"
 
 abstract: >-
   This paper explores electroactive differential growth and delayed instability in accelerated healing tissues, with an emphasis on their mechanical and biological implications in tissue engineering.
