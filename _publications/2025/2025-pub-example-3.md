@@ -1,6 +1,6 @@
 ---
 title:          Dynamic instability in curved beams
-date:           2025-03-03 00:01:00 +0800
+date:           2025-01-17 00:01:00 +0800
 selected:       False
 pub:            "Chinese Journal of Applied Mechanics, 2025, 42(1), 17-28"
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
