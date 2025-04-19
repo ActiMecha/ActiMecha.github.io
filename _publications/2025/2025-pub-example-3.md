@@ -1,29 +1,26 @@
 ---
-title:          Coupled magneto-mechanical growth in hyperelastic materials：Surface patterns modulation and shape control in bio-inspired structures
+title:          Dynamic instability in curved beams
 date:           2025-03-03 00:01:00 +0800
 selected:       False
-pub:            "Journal of the Mechanics and Physics of Solids, Volume 200, Article 106089"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
+pub:            "Chinese Journal of Applied Mechanics, 2025, 42(1), 17-28"
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
 pub_date:       "2025"
 
 abstract: >-
-  This paper explores coupled magneto-mechanical growth in hyperelastic materials, focusing on surface pattern modulation and shape control for bio-inspired structures with potential applications in adaptive materials and structures.
-  
-cover:          assets/images/covers/2025_coupled_magnetomechanical_growth.PNG
+  This study shows that dynamic instability and strength degradation in curved beams are mainly influenced by initial height and lateral pulse velocity, with minimal impact from viscous damping.
+
+cover:          assets/images/covers/2025-curved-beam-instability.PNG
 authors:
-  - Zhanfeng Li
   - Yafei Wang
-  - Zuodong Wang
-  - Chennakesava Kadapa
-  - Mokarram Hossain
-  - Xiaohu Yao†
-  - Jiong Wang†
+  - Wei Zhao†
+  - Yunce Zhang
+  - Yangkun Du
+  - Qiang Tao
+  - Changguo Wang
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0022509625000651
   #Poster: assets/images/poster/icml2024-ws.jpeg
-  PDF: assets/pdf/coupled_magnetomechanical_growth.pdf
-  Cite: assets/bibtex/coupled_magnetomechanical_growth.html
+  PDF: assets/pdf/dynamic_instability_curved_beams.pdf
+  Cite: assets/bibtex/dynamic_instability_curved_beams.html
 
 ---
