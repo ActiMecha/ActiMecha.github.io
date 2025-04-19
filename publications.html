@@ -1,14 +1,12 @@
 ---
 layout: default
-title : Publications
+title: Publications
 navbar_name: Publications
 body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
-<blockquote>
-	All publications can be found on 🔗Google Scholar. Feel free to cite or collaborate.
-</blockquote>
+All publications can be found on 🔗Google Scholar. Feel free to cite or collaborate.
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
