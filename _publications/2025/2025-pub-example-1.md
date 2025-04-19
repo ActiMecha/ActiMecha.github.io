@@ -11,7 +11,7 @@ pub_date:       "2025"
 abstract: >-
   Biodegradable power sources provide temporary energy for implantable bioelectronics through storage, harvesting, and transfer, with future research focusing on improving biocompatibility, energy density, and degradation control.
   
-cover:          assets/images/covers/doutub_gif.gif
+cover:          assets/images/covers/2025-Biodegradable-power-sources.PNG
 authors:
   - Li Dong
   - Liangjie Shan
