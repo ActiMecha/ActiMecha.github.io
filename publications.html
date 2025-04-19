@@ -7,6 +7,7 @@ body_attr: >-
 ---
 
 All publications can be found on <a href="https://scholar.google.com/citations?user=GXeHGj0AAAAJ&hl=en">🔗Google Scholar</a>. Feel free to cite or collaborate.
+<br>(*First author, †Corresponding author)
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
