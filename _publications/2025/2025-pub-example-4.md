@@ -4,7 +4,7 @@ date:           2025-01-28 00:00:00 +0800
 selected:       False
 pub:            "Advanced Functional Materials, 2025, 2422869"
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
-pub_date:       "2025"
+#pub_date:       "2025"
 
 abstract: >-
   This paper discusses conducting hydrogel-based neural biointerfacing technologies, focusing on their potential applications and challenges in neuroscience and biomedical fields.
