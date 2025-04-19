@@ -9,7 +9,7 @@ pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Jou
 pub_date:       "2025"
 
 abstract: >-
-  Biodegradable power sources offer temporary energy solutions for implantable bioelectronics, with batteries, supercapacitors, and nanogenerators providing reliable energy through storage, harvesting, and transfer. Future research should focus on improving biocompatibility, energy density, and degradation control to expand their applications in bioelectronics.
+  Biodegradable power sources provide temporary energy for implantable bioelectronics through storage, harvesting, and transfer, with future research focusing on improving biocompatibility, energy density, and degradation control.
   
 cover:          assets/images/covers/biodegradable_power_sources.jpg
 authors:
