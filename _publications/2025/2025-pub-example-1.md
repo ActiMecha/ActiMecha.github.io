@@ -20,5 +20,6 @@ authors:
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S2667240524000205
   Poster: assets/images/poster/icml2024-ws.jpeg
+  PDF: assets/pdf/biodegradable_power_sources.pdf
 ---
 
