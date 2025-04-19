@@ -1,6 +1,6 @@
 ---
 title:          Electroactive differential growth and delayed instability in accelerated healing tissues
-date:           2024-01-01 00:00:00 +0800
+date:           2024-12-01 00:00:00 +0800
 selected:       True
 pub:            "Journal of the Mechanics and Physics of Solids, 2024, 105867"
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
@@ -24,7 +24,7 @@ authors:
   - Weiqiu Chen
   - Ji Liu†
 links:
-  Paper: https://www.journals.elsevier.com/journal-of-the-mechanics-and-physics-of-solids
+  Paper: https://www.sciencedirect.com/science/article/pii/S0022509624003338
   PDF: assets/pdf/electroactive_growth.pdf
   Cite: assets/bibtex/electroactive_growth.html
 ---
