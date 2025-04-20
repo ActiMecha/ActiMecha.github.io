@@ -1,19 +1,26 @@
-<nav class="navbar navbar-expand-sm fixed-top shadow-lg futuristic-navbar">
+<!-- 引入 Google 字体 -->
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap" rel="stylesheet">
+
+<nav class="navbar navbar-expand-sm fixed-top shadow-sm glass-navbar">
   <div class="container">
-    <a class="navbar-brand d-flex align-items-center text-neon" style="font-family: 'Orbitron', sans-serif; font-size: 1.4rem;">
-      <i class="fas fa-robot mr-2"></i> {{ site.data.profile.navbar_name }}
+    <!-- 品牌名称（无图标） -->
+    <a class="navbar-brand text-light" style="font-family: 'Rubik', sans-serif; font-size: 1.25rem;">
+      {{ site.data.profile.navbar_name }}
     </a>
 
+    <!-- 响应式按钮 -->
     <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarResponsive"
       aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon" style="filter: invert(1);"></span>
     </button>
 
+    <!-- 右侧菜单 -->
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         {% for item in site.data.navigation.pages %}
         <li class="nav-item {% if item.name == page.navbar_name %}active{% endif %}">
-          <a class="nav-link text-neon mx-2" href="{{ item.url }}" style="font-family: 'Orbitron', sans-serif; transition: 0.3s;">
+          <a class="nav-link text-light mx-2" href="{{ item.url }}"
+             style="font-family: 'Rubik', sans-serif; transition: 0.3s;">
             {{ item.name }}
             {% if item.url == page.url %}
               <span class="sr-only">(current)</span>
@@ -26,28 +33,30 @@
   </div>
 </nav>
 
+<!-- 柔光流动背景样式 -->
 <style>
-/* 动态渐变背景 */
-.futuristic-navbar {
-  background: linear-gradient(-45deg, #0f0c29, #302b63, #24243e, #1c1c1c);
-  background-size: 400% 400%;
-  animation: gradientFlow 10s ease infinite;
-  border-bottom: 1px solid #00ffff;
+.glass-navbar {
+  background: linear-gradient(120deg, rgba(120, 230, 255, 0.6), rgba(180, 255, 240, 0.6), rgba(210, 210, 255, 0.6));
+  background-size: 300% 300%;
+  animation: softFlow 15s ease infinite;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-/* 发光文字效果 */
-.text-neon {
-  color: #00ffff !important;
-}
-
-.nav-link:hover {
-  text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff;
-  transform: scale(1.05);
-}
-
-@keyframes gradientFlow {
+/* 动态柔光动画 */
+@keyframes softFlow {
   0% {background-position: 0% 50%;}
   50% {background-position: 100% 50%;}
   100% {background-position: 0% 50%;}
+}
+
+.navbar-brand, .nav-link {
+  color: #f8f9fa !important;
+}
+
+.nav-link:hover {
+  text-shadow: 0 0 4px rgba(255, 255, 255, 0.6);
+  transform: scale(1.03);
 }
 </style>
