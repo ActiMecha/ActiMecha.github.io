@@ -1,0 +1,31 @@
+<nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top mb-5 shadow-sm">
+  <div class="container">
+    <!-- 品牌名称字体加大加粗，统一风格 -->
+    <a class="navbar-brand font-weight-bold text-dark" style="font-size: 1.5rem; font-family: 'Helvetica Neue', Arial, sans-serif;">
+      {{ site.data.profile.navbar_name }}
+    </a>
+
+    <!-- 响应式按钮 -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" 
+            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- 导航链接 -->
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        {% for item in site.data.navigation.pages %}
+        <li class="nav-item {% if item.name == page.navbar_name %}active{% endif %}">
+          <a class="nav-link text-dark font-weight-medium" href="{{ item.url }}" 
+             style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1rem;">
+            {{ item.name }}
+            {% if item.url == page.url %}
+              <span class="sr-only">(current)</span>
+            {% endif %}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>
