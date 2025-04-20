@@ -1,6 +1,6 @@
 ---
 title:          Anomalous wrinkle propagation in polycrystalline graphene with tilt grain boundaries
-date:           2023-01-20 00:00:00 +0800
+date:           2023-12-20 00:00:00 +0800
 selected:       False
 pub:            "Physical Chemistry Chemical Physics, 2023, 25, 3681-3694"
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
