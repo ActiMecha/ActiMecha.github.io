@@ -1,64 +1,82 @@
 <!-- 引入 Google 字体 -->
 <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap" rel="stylesheet">
 
-<nav class="navbar navbar-expand-sm fixed-top shadow-sm glass-navbar">
-  <div class="container">
-    <!-- 品牌名称 -->
-    <a class="navbar-brand" style="font-family: 'Rubik', sans-serif; font-size: 1.25rem;">
-      {{ site.data.profile.navbar_name }}
-    </a>
+<!-- 视频作为导航栏背景 -->
+<div class="navbar-video-wrapper">
+  <video autoplay muted loop playsinline id="navbar-video">
+    <source src="/assets/video/juvenile_octopus.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
-    <!-- 响应式按钮 -->
-    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarResponsive"
-      aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+  <nav class="navbar navbar-expand-sm fixed-top shadow-sm glass-navbar">
+    <div class="container">
+      <!-- 品牌名称 -->
+      <a class="navbar-brand" style="font-family: 'Rubik', sans-serif; font-size: 1.5rem;">
+        {{ site.data.profile.navbar_name }}
+      </a>
 
-    <!-- 右侧菜单 -->
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
-        {% for item in site.data.navigation.pages %}
-        <li class="nav-item {% if item.name == page.navbar_name %}active{% endif %}">
-          <a class="nav-link mx-2" href="{{ item.url }}"
-             style="font-family: 'Rubik', sans-serif; transition: 0.3s;">
-            {{ item.name }}
-            {% if item.url == page.url %}
-              <span class="sr-only">(current)</span>
-            {% endif %}
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
+      <!-- 响应式按钮 -->
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+        aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- 右侧菜单 -->
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          {% for item in site.data.navigation.pages %}
+          <li class="nav-item {% if item.name == page.navbar_name %}active{% endif %}">
+            <a class="nav-link mx-2" href="{{ item.url }}"
+               style="font-family: 'Rubik', sans-serif; transition: 0.3s;">
+              {{ item.name }}
+              {% if item.url == page.url %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
+</div>
 
-<!-- 柔光流动背景样式 -->
 <style>
+/* 视频容器必须定位 */
+.navbar-video-wrapper {
+  position: relative;
+  height: 100px; /* 可自定义导航栏高度 */
+  overflow: hidden;
+}
+
+/* 视频铺满整个导航栏区域 */
+#navbar-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+/* 导航栏样式 */
 .glass-navbar {
-  background: linear-gradient(120deg, rgba(120, 230, 255, 0.6), rgba(180, 255, 240, 0.6), rgba(210, 210, 255, 0.6));
-  background-size: 300% 300%;
-  animation: softFlow 15s ease infinite;
+  position: relative;
+  height: 100px;
+  background: rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  z-index: 1;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
-/* 动态柔光动画 */
-@keyframes softFlow {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-
-/* 字体颜色统一为黑色 */
+/* 字体颜色与 hover 效果 */
 .navbar-brand, .nav-link {
-  color: #111 !important;
+  color: #fff !important;
 }
-
-/* hover 时略微提亮 */
 .nav-link:hover {
-  text-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
-  transform: scale(1.03);
+  text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
+  transform: scale(1.05);
 }
 </style>
