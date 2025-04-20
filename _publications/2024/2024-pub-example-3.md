@@ -1,7 +1,7 @@
 ---
 title:          Hierarchically-structured and mechanically-robust hydrogel electrolytes for flexible zinc-iodine batteries
 date:           2024-11-01 00:00:00 +0800
-selected:       True
+selected:       False
 pub:            "Advanced Functional Materials, 2024, 2470265"
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
 #pub_date:       "2024"
