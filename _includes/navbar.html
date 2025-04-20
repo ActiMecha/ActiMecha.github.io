@@ -1,23 +1,25 @@
-<nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top mb-5 shadow-sm">
+<!-- Google Fonts 引入未来感字体 -->
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+
+<nav class="navbar navbar-expand-sm fixed-top shadow-lg" style="background: linear-gradient(90deg, #0f0f0f, #1c1c1c); border-bottom: 1px solid #00ffff;">
   <div class="container">
-    <!-- 品牌名称字体加大加粗，统一风格 -->
-    <a class="navbar-brand font-weight-bold text-dark" style="font-size: 1.5rem; font-family: 'Helvetica Neue', Arial, sans-serif;">
-      {{ site.data.profile.navbar_name }}
+    <!-- 左侧品牌名 + 图标 -->
+    <a class="navbar-brand d-flex align-items-center text-neon" style="font-family: 'Orbitron', sans-serif; font-size: 1.4rem;">
+      <i class="fas fa-robot mr-2"></i> {{ site.data.profile.navbar_name }}
     </a>
 
     <!-- 响应式按钮 -->
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" 
-            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+      aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon" style="filter: invert(1);"></span>
     </button>
 
-    <!-- 导航链接 -->
+    <!-- 右侧导航链接 -->
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         {% for item in site.data.navigation.pages %}
         <li class="nav-item {% if item.name == page.navbar_name %}active{% endif %}">
-          <a class="nav-link text-dark font-weight-medium" href="{{ item.url }}" 
-             style="font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1rem;">
+          <a class="nav-link text-neon mx-2" href="{{ item.url }}" style="font-family: 'Orbitron', sans-serif; transition: 0.3s;">
             {{ item.name }}
             {% if item.url == page.url %}
               <span class="sr-only">(current)</span>
@@ -29,3 +31,23 @@
     </div>
   </div>
 </nav>
+
+<!-- Neon 风格样式 -->
+<style>
+  .text-neon {
+    color: #00ffff !important;
+  }
+
+  .nav-link:hover {
+    text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff;
+    transform: scale(1.05);
+  }
+
+  .navbar-brand:hover {
+    text-shadow: 0 0 6px #00ffff, 0 0 12px #00ffff;
+  }
+
+  body {
+    padding-top: 70px; /* 给 fixed navbar 留空间 */
+  }
+</style>
