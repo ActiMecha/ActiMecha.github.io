@@ -50,7 +50,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  height: 120px; /* 导航栏高度 */
+  height: 100px; /* 导航栏高度 */
   z-index: 1000;
 }
 
@@ -79,11 +79,13 @@
   padding-bottom: 0.5rem;
 }
 
-/* 导航文字样式 */
-.navbar-brand, .nav-link {
+/* ✅ 限定白色字体只作用于导航栏 */
+.glass-navbar .navbar-brand,
+.glass-navbar .nav-link {
   color: #fff !important;
 }
-.nav-link:hover {
+
+.glass-navbar .nav-link:hover {
   text-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
   transform: scale(1.05);
 }
