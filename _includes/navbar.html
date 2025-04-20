@@ -1,20 +1,14 @@
-<!-- Google Fonts 引入未来感字体 -->
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
-
-<nav class="navbar navbar-expand-sm fixed-top shadow-lg" style="background: linear-gradient(90deg, #0f0f0f, #1c1c1c); border-bottom: 1px solid #00ffff;">
+<nav class="navbar navbar-expand-sm fixed-top shadow-lg futuristic-navbar">
   <div class="container">
-    <!-- 左侧品牌名 + 图标 -->
     <a class="navbar-brand d-flex align-items-center text-neon" style="font-family: 'Orbitron', sans-serif; font-size: 1.4rem;">
       <i class="fas fa-robot mr-2"></i> {{ site.data.profile.navbar_name }}
     </a>
 
-    <!-- 响应式按钮 -->
     <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarResponsive"
       aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon" style="filter: invert(1);"></span>
     </button>
 
-    <!-- 右侧导航链接 -->
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         {% for item in site.data.navigation.pages %}
@@ -32,22 +26,28 @@
   </div>
 </nav>
 
-<!-- Neon 风格样式 -->
 <style>
-  .text-neon {
-    color: #00ffff !important;
-  }
+/* 动态渐变背景 */
+.futuristic-navbar {
+  background: linear-gradient(-45deg, #0f0c29, #302b63, #24243e, #1c1c1c);
+  background-size: 400% 400%;
+  animation: gradientFlow 10s ease infinite;
+  border-bottom: 1px solid #00ffff;
+}
 
-  .nav-link:hover {
-    text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff;
-    transform: scale(1.05);
-  }
+/* 发光文字效果 */
+.text-neon {
+  color: #00ffff !important;
+}
 
-  .navbar-brand:hover {
-    text-shadow: 0 0 6px #00ffff, 0 0 12px #00ffff;
-  }
+.nav-link:hover {
+  text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff;
+  transform: scale(1.05);
+}
 
-  body {
-    padding-top: 70px; /* 给 fixed navbar 留空间 */
-  }
+@keyframes gradientFlow {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
 </style>
