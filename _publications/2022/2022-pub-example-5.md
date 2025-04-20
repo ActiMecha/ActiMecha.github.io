@@ -1,5 +1,5 @@
 ---
-title:          Helical micro-swimmer: hierarchical tail design and propulsive motility
+title:          Helical micro-swimmer：Hierarchical tail design and propulsive motility
 date:           2022-08-15 00:00:00 +0800
 selected:       False
 pub:            "Soft Matter, 2022, 18(33), 6148-6156"
