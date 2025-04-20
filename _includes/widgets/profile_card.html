@@ -47,6 +47,12 @@
                         </a>
                         {% endif %}
 
+						{% if site.data.profile.researchgate %}
+						<a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.researchgate }}">
+							<i class="ai ai-researchgate" style="font-size: 1.4em; text-shadow: 1px 1px 1px rgba(0,0,0,0.2); margin-right: 4px;"></i> ResearchGate
+						</a>
+						{% endif %}
+
                         {% if site.data.profile.sscholar %}
                         <a class="pr-3 no-break" target="_blank" href="https://www.semanticscholar.org/author/{{ site.data.profile.sscholar }}">
                             <i class="fa fa-book"></i> Semantic Scholar
