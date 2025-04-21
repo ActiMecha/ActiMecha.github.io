@@ -3,7 +3,7 @@ title:          Electroactive differential growth and delayed instability in acc
 date:           2024-12-01 00:00:00 +0800
 selected:       True
 pub:            "Journal of the Mechanics and Physics of Solids, 2024, 105867"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2024"
 
 abstract: >-
