@@ -3,7 +3,7 @@ title: The mechanical design of a hybrid intelligent hinge with shape memory pol
 date: 2018-02-01 00:00:00 +0800
 selected: false
 pub: "Composites Part B: Engineering, 2018, 134: 1–8"
-pub_last: '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last: '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 
 abstract: >-
   This study proposes a hybrid intelligent hinge combining shape memory polymers and a spring sheet, demonstrating controllable recovery behavior through theoretical modeling, simulations, and experiments to guide the design of deployable structures.
