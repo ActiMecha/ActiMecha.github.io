@@ -3,7 +3,7 @@ title: Vibration frequency analysis of rippled single-layered graphene sheet：T
 date: 2019-10-01 00:00:00 +0800
 selected: false
 pub: "Physica E: Low-dimensional Systems and Nanostructures, 2019, 114: 113580"
-pub_last: '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last: '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 
 abstract: >-
   This work presents an analytical model for predicting vibration frequency shifts in rippled single-layer graphene sheets using improved continuum mechanics. The effects of surface wrinkles, functional groups, and structural defects on vibration behavior are explored, guiding future nanoresonator design.
