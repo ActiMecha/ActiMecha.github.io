@@ -3,7 +3,7 @@ title:          Substantial curvature effects on compliant serpentine mechanics
 date:           2023-09-01 00:00:00 +0800
 selected:       False
 pub:            "Mechanics of Materials, 2023, 184, 104732"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2023"
 
 abstract: >-
