@@ -3,7 +3,7 @@ title:          Strain stiffening retards growth instability in residually stres
 date:           2023-09-01 00:00:00 +0800
 selected:       True
 pub:            "Journal of the Mechanics and Physics of Solids, 2023, 178, 105360"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2023"
 
 abstract: >-
