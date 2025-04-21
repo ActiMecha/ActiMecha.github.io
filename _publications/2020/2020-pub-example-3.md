@@ -3,7 +3,7 @@ title:          Self-assembly of graphene sheets actuated by surface topological
 date:           2020-03-01 00:00:00 +0800
 selected:       False
 pub:            "Applied Surface Science, 2020, 505, 144008"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 
 abstract: >-
   This study investigates the self-assembly behaviors of graphene sheets induced by surface topological defects using atomistic simulations. A systematic simulation approach reveals four distinct dynamic modes—polygon nanoscroll, polygon nanotube, breathing oscillation, and damping vibration—each modulated by geometric design parameters. The work proposes a reverse design paradigm to achieve targeted nanostructures for applications such as drug delivery.
