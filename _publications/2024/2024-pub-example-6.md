@@ -3,7 +3,7 @@ title:          Self-growing hydrogel bioadhesives for chronic wound management
 date:           2024-08-16 00:00:00 +0800
 selected:       True
 pub:            "Advanced Materials, 2024, 36(41), e2408538"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2024"
 
 abstract: >-
