@@ -12,7 +12,7 @@ abstract: >-
 cover:          assets/images/covers/2022-strain-limiting-wrinkled-kirigami.png
 authors:
   - Yafei Wang
-  - Changguo Wang†
+  - Changguo Wang
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0020768321004480
   PDF: assets/pdf/mechanics_strain_limiting_wrinkled_kirigami.pdf
