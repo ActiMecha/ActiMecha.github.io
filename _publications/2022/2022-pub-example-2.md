@@ -15,7 +15,7 @@ authors:
   - Zhiming Xue
   - Yafei Wang
   - Xide Li
-  - Changguo Wang†
+  - Changguo Wang
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0020740321007037
   PDF: assets/pdf/lateral_constrained_wrinkling.pdf
