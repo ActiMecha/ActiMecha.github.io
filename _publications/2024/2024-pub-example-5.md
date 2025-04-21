@@ -15,7 +15,7 @@ authors:
   - Yafei Wang†
   - Qiang Tao
   - Yuanpeng Liu
-  - Changguo Wang†
+  - Changguo Wang
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0020740324003734
   PDF: assets/pdf/deep_learning_kirigami.pdf
