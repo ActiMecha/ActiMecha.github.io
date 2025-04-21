@@ -3,7 +3,7 @@ title:          Sustainable three-dimensional printing of waste paper-based func
 date:           2024-09-28 00:00:00 +0800
 selected:       False
 pub:            "Advanced Composites and Hybrid Materials, 2024, 7(5), 156"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2024"
 
 abstract: >-
