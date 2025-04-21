@@ -19,10 +19,10 @@ authors:
   - Yangkun Du
   - Yunce Zhang
   - Yipin Su
-  - Fan Xu†
-  - Changguo Wang†
+  - Fan Xu
+  - Changguo Wang
   - Weiqiu Chen
-  - Ji Liu†
+  - Ji Liu
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0022509624003338
   PDF: assets/pdf/electroactive_growth.pdf
