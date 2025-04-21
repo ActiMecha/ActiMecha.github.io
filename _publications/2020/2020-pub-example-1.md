@@ -12,7 +12,7 @@ cover:          assets/images/covers/2020-airship-envelope-optimization.png
 authors:
   - Yunce Zhang
   - Yafei Wang
-  - Changguo Wang†
+  - Changguo Wang
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S1000936120301837
   PDF: assets/pdf/airship_envelope_optimization.pdf
