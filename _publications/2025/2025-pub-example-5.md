@@ -6,7 +6,7 @@ pub: "Soft Science, 2025, 5(2): 19"
 pub_last: '<span class="badge badge-pill badge-custom badge-primary">Mini Review</span>'
 
 abstract: >-
-  Kirigami metamaterials exhibit exceptional softness, lightness, and stretchability, positioning them as promising candidates in advanced material design. However, their mechanical analysis is challenged by flexibility-induced instabilities and the inadequacy of rigid-body assumptions. This review outlines key challenges including the need for flexible tensile models and high-curvature cut-edge designs. It highlights the limitations of reciprocal mechanics in describing nonlinear, multistable, and asymmetric deformations. Static nonreciprocity is introduced as a powerful concept to break time-reversal symmetry, offering a new framework to tackle complex kirigami behavior. The study sets the stage for innovations in soft robotics, deployable systems, and flexible electronics.
+  Kirigami metamaterials, known for their softness, lightness, and stretchability, face challenges in mechanical modeling due to instability and the failure of rigid-body assumptions. This review highlights the need for flexible tensile models and high-curvature designs, and introduces static nonreciprocity as a promising framework to capture their nonlinear, multistable, and asymmetric behavior, paving the way for applications in soft robotics and flexible electronics.
 
 cover: assets/images/covers/2025-kirigami-nonreciprocity.png
 authors:
