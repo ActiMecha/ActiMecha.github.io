@@ -3,7 +3,7 @@ title: Dimensional variation of reconfigurable serpentine graphene nanoribbon un
 date: 2019-02-28 00:00:00 +0800
 selected: false
 pub: "Journal of Applied Physics, 2019, 125(8)"
-pub_last: '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last: '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 
 abstract: >-
   This study investigates dimensional transitions in serpentine graphene nanoribbons under tension, combining simulations and experiments. Results reveal a counterintuitive deformation mechanism with potential for tunable device applications.
