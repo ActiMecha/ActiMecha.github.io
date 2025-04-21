@@ -3,7 +3,7 @@ title:          Mechanics of strain-limiting wrinkled kirigami for flexible devi
 date:           2022-03-01 00:00:00 +0800
 selected:       True
 pub:            "International Journal of Solids and Structures, 2022, 238, 111382"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2022"
 
 abstract: >-
