@@ -22,7 +22,7 @@ authors:
   - Yu Xue
   - Xing Li
   - Lin Zhang
-  - Ji Liu†
+  - Ji Liu
 links:
   Paper: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202408538
   PDF: assets/pdf/self_growing_hydrogel_bioadhesives.pdf
