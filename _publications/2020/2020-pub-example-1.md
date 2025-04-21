@@ -3,7 +3,7 @@ title:          Light weight optimization of stratospheric airship envelope base
 date:           2020-10-01 00:00:00 +0800
 selected:       False
 pub:            "Chinese Journal of Aeronautics, 2020, 33(10), 2670–2678"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 
 abstract: >-
   This paper develops a reliability-based lightweight optimization method for stratospheric airship envelopes, considering three failure modes—bending wrinkling, hoop tearing, and bending kink. The proposed design approach incorporates multidisciplinary analysis and shows how geometry and loading conditions affect failure mechanisms and structural efficiency.
