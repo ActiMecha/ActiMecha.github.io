@@ -12,7 +12,7 @@ abstract: >-
 cover:          assets/images/covers/2025-curved-beam-instability.PNG
 authors:
   - Yafei Wang
-  - Wei Zhao†
+  - Wei Zhao
   - Yunce Zhang
   - Yangkun Du
   - Qiang Tao
