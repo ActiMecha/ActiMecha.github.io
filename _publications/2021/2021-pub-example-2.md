@@ -3,7 +3,7 @@ title:          A theoretical study of wrinkle propagation in graphene with flow
 date:           2021-05-28 00:00:00 +0800
 selected:       False
 pub:            "Physical Chemistry Chemical Physics, 2021, 23(20), 11917–11930"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 
 abstract: >-
   This work investigates wrinkle propagation across flower-like grain boundaries in graphene through theoretical modeling and atomistic simulations. A defect shielding effect is revealed, showing how wrinkle behavior varies with GB curvature. The study provides insight into designing graphene-based nanomechanical devices.
