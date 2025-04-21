@@ -3,7 +3,7 @@ title:          Wireless bioelectronics for in vivo pressure monitoring with mec
 date:           2024-03-14 00:00:00 +0800
 selected:       False
 pub:            "Advanced Materials, 2024, 36(26), e2400181"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2024"
 
 abstract: >-
