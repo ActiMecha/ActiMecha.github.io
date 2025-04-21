@@ -3,7 +3,7 @@ title:          Flexible kirigami with local cylindrical shell design for stretc
 date:           2022-09-15 00:00:00 +0800
 selected:       False
 pub:            "Composite Structures, 2022, 296, 115879"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2022"
 
 abstract: >-
