@@ -18,8 +18,8 @@ authors:
   - Zuodong Wang
   - Chennakesava Kadapa
   - Mokarram Hossain
-  - Xiaohu Yao†
-  - Jiong Wang†
+  - Xiaohu Yao
+  - Jiong Wang
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0022509625000651
   #Poster: assets/images/poster/icml2024-ws.jpeg
