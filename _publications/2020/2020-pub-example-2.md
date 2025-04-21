@@ -3,7 +3,7 @@ title:          Analysis and Verification of an Optimal Design Solution for Rubb
 date:           2020-03-01 00:00:00 +0800
 selected:       False
 pub:            "Journal of Waterway, Port, Coastal, and Ocean Engineering, 2020, 146(2), 04020001"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 
 abstract: >-
   This paper proposes and verifies an optimal design approach for rubble mound breakwaters by accounting for the interactions of multiple failure modes, including overtopping, armor instability, and crown wall sliding. The model integrates construction and repair costs, with an auxiliary coefficient to quantify the impact of each failure mode on overall reliability and cost.
