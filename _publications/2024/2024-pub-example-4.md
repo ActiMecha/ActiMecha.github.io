@@ -19,7 +19,7 @@ authors:
   - Yunting Lan
   - Pei Zhang
   - Yafei Wang
-  - Ji Liu†
+  - Ji Liu
 links:
   Paper: https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202408557
   PDF: assets/pdf/polyurethane_vitrimers.pdf
