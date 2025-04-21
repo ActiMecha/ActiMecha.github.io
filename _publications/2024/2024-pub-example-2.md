@@ -15,7 +15,7 @@ authors:
   - Yafei Wang
   - Chaoji Chen
   - Zhaohui Wang
-  - Ji Liu†
+  - Ji Liu
 links:
   Paper: https://www.the-innovation.org/article/doi/10.59717/j.xinn-mater.2024.100105
   PDF: assets/pdf/bioinspired_hydrogel.pdf
