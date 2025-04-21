@@ -11,12 +11,12 @@ abstract: >-
 
 cover:          assets/images/covers/2023-substantial-curvature-serpentine-mechanics.png
 authors:
-  - Yafei Wang#
-  - Wei Zhao#
-  - Yangkun Du#
+  - Yafei Wang
+  - Wei Zhao
+  - Yangkun Du
   - Zhijun Dai
-  - Yanju Liu†
-  - Fan Xu†
+  - Yanju Liu
+  - Fan Xu
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0167663623001783
   PDF: assets/pdf/substantial_curvature_serpentine_mechanics.pdf
