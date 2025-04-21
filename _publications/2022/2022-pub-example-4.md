@@ -3,7 +3,7 @@ title:          Anomalous wrinkle propagation in polycrystalline graphene with t
 date:           2022-12-20 00:00:00 +0800
 selected:       False
 pub:            "Physical Chemistry Chemical Physics, 2023, 25, 3681-3694"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2023"
 
 abstract: >-
