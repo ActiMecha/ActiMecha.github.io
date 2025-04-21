@@ -7,7 +7,7 @@ pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Jou
 #pub_date:       "2023"
 
 abstract: >-
-  We employ a nonlinear hyperelastic Gent model with initial residual stress symmetry theory to show that strain stiffening in growing tubular tissues delays buckling-induced growth instability, supported by analytical and numerical analysis.
+  This study examines how strain-stiffening in biological tissues influences growth and remodeling, particularly in airways. Using a growing tubular structure with collagen-induced strain-stiffening, the research incorporates the nonlinear hyperelastic Gent model and initial stress symmetry theory. Results show that strain-stiffening delays growth instability at moderate strains and prevents it at low strains, maintaining stable epithelial tissue. These findings suggest that strain-stiffening can slow instability in biological growth and remodeling, with implications for clinical interventions in chronic inflammatory airway diseases.
 
 cover:          assets/images/covers/2023-strain-stiffening-growth-instability.png
 authors:
