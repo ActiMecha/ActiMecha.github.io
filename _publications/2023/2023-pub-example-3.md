@@ -3,7 +3,7 @@ title:          Smart helical swimmer：Nested and uncoiled designs
 date:           2023-03-15 00:00:00 +0800
 selected:       False
 pub:            "International Journal of Mechanical Sciences, 2023, 242, 107996"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2023"
 
 abstract: >-
