@@ -3,7 +3,7 @@ title: Geometry-dependent stretchability and stiffness of ribbon kirigami based 
 date: 2020-01-15 00:00:00 +0800
 selected: True
 pub: "International Journal of Solids and Structures, 2020, 182: 236–253"
-pub_last: '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last: '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 
 abstract: >-
   A dimensionless analytical model based on the large curvature curved beam theory is proposed to predict the normalized stiffness and stretchability of ribbon kirigami. Theoretical predictions are validated by experiments and simulations, offering design insights for kirigami-based structures.
