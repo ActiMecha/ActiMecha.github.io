@@ -25,7 +25,7 @@ authors:
   - Yafei Wang
   - Zongbao Wang
   - Lin Zeng†
-  - Ji Liu†
+  - Ji Liu
 links:
   Paper: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202407050
   PDF: assets/pdf/hydrogel_electrolytes.pdf
