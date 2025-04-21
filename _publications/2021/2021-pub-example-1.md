@@ -1,7 +1,7 @@
 ---
 title:          Buckling of ultrastretchable kirigami metastructures for mechanical programmability and energy harvesting
 date:           2021-03-15 00:00:00 +0800
-selected:       False
+selected:       True
 pub:            "International Journal of Solids and Structures, 2021, 213, 93–102"
 pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
 #pub_date:       "2021"
