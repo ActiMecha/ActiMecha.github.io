@@ -3,7 +3,7 @@ title:          Polyurethane vitrimers engineered with nitrogen-coordinating cyc
 date:           2024-10-17 00:00:00 +0800
 selected:       False
 pub:            "Small, 2024, 2408557"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2024"
 
 abstract: >-
