@@ -1,5 +1,5 @@
 ---
-title: Intrinsic edge warping of graphene nanoribbon boost molecular directional motion: toward the novel nanodevices
+title: Intrinsic edge warping of graphene nanoribbon boost molecular directional motion：Toward the novel nanodevices
 date: 2019-04-24 00:00:00 +0800
 selected: false
 pub: "Physics Letters A, 2019, 383(13): 1473–1477"
