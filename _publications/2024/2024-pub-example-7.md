@@ -17,7 +17,7 @@ authors:
   - Yun Tan
   - Iek Man Lei
   - Ben Bin Xu
-  - Ji Liu†
+  - Ji Liu
 links:
   Paper: https://link.springer.com/article/10.1007/s42114-024-00970-y
   PDF: assets/pdf/sustainable_3d_printing.pdf
