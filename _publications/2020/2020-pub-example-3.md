@@ -11,7 +11,7 @@ abstract: >-
 cover:          assets/images/covers/2020-graphene-self-assembly.png
 authors:
   - Yafei Wang
-  - Changguo Wang†
+  - Changguo Wang
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0169433219328247
   PDF: assets/pdf/self_assembly_graphene.pdf
