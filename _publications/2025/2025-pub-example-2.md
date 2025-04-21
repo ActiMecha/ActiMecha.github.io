@@ -5,7 +5,7 @@ selected:       False
 pub:            "Journal of the Mechanics and Physics of Solids, 2024, 200, 106089"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2025"
 
 abstract: >-
