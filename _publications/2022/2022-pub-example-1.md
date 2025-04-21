@@ -15,7 +15,7 @@ authors:
   - Lamei Zhang
   - Yafei Wang
   - Youshan Wang
-  - Changguo Wang†
+  - Changguo Wang
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0263822322006468
   PDF: assets/pdf/flexible_kirigami_microstrip_antenna.pdf
