@@ -15,7 +15,7 @@ authors:
   - Yafei Wang
   - Jingtian Kang
   - Xinghan Qiu
-  - Changguo Wang†
+  - Changguo Wang
 links:
   Paper: https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00823h
   PDF: assets/pdf/helical_micro_swimmer.pdf
