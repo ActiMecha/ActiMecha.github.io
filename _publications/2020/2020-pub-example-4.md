@@ -1,5 +1,5 @@
 ---
-title:          Effect of temperature difference on the mechanical responses of ribbon kirigami: Toward the highly stretchable conductors
+title:          Effect of temperature difference on the mechanical responses of ribbon kirigami：Toward the highly stretchable conductors
 date:           2020-02-15 00:00:00 +0800
 selected:       False
 pub:            "International Journal of Mechanical Sciences, 2020, 168, 105301"
