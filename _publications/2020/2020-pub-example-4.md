@@ -3,7 +3,7 @@ title:          Effect of temperature difference on the mechanical responses of 
 date:           2020-02-15 00:00:00 +0800
 selected:       False
 pub:            "International Journal of Mechanical Sciences, 2020, 168, 105301"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 
 abstract: >-
   This work develops a thermal-mechanical model to study how temperature differences affect the stretchability of ribbon kirigami conductors. Theoretical predictions are validated by simulations and experiments, offering insights for wearable and stretchable electronics.
