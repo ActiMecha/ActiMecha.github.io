@@ -11,9 +11,9 @@ abstract: >-
 
 cover:          assets/images/covers/2023-strain-stiffening-growth-instability.png
 authors:
-  - Yafei Wang#
-  - Yangkun Du#
-  - Fan Xu†
+  - Yafei Wang
+  - Yangkun Du
+  - Fan Xu
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0022509623001643
   PDF: assets/pdf/strain_stiffening_growth_instability.pdf
