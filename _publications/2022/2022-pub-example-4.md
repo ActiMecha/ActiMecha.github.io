@@ -13,7 +13,7 @@ cover:          assets/images/covers/2023-anomalous-wrinkle-graphene.png
 authors:
   - Zihui Zhao#
   - Yafei Wang#
-  - Changguo Wang†
+  - Changguo Wang
 links:
   Paper: https://doi.org/10.1039/D2CP05067F
   PDF: assets/pdf/anomalous_wrinkle_graphene.pdf
