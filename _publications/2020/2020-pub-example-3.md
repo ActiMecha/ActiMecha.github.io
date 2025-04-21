@@ -1,5 +1,5 @@
 ---
-title:          Self-assembly of graphene sheets actuated by surface topological defects: Toward the fabrication of novel nanostructures and drug delivery devices
+title:          Self-assembly of graphene sheets actuated by surface topological defects：Toward the fabrication of novel nanostructures and drug delivery devices
 date:           2020-03-01 00:00:00 +0800
 selected:       False
 pub:            "Applied Surface Science, 2020, 505, 144008"
