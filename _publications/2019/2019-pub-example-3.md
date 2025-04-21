@@ -6,7 +6,7 @@ pub: "Computational Materials Science, 2019, 159: 306–315"
 pub_last: '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
 
 abstract: >-
-  This work explores the reinforcing and interfacial bonding effects of graphene kirigami in silicon-based nanocomposites through molecular dynamics simulations. The mechanical response, characterized by four stages including wrinkling and ratcheting, is significantly influenced by kirigami geometry and bonding strength. Results highlight strategies to enhance toughness and strength in nanocomposites via interfacial design and kirigami patterning.
+  This study reveals how graphene kirigami enhances the strength and toughness of silicon-based nanocomposites, highlighting the roles of interfacial bonding and structural geometry.
 
 cover: assets/images/covers/2019-graphene-kirigami-composite.png
 authors:
