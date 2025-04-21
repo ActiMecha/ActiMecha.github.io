@@ -1,6 +1,6 @@
 ---
 title: Geometry-dependent stretchability and stiffness of ribbon kirigami based on large curvature curved beam model
-date: 2020-01-01 00:00:00 +0800
+date: 2020-01-15 00:00:00 +0800
 selected: True
 pub: "International Journal of Solids and Structures, 2020, 182: 236–253"
 pub_last: '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
