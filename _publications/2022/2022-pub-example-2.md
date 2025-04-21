@@ -3,7 +3,7 @@ title:          Lateral constrained wrinkling of the film with partial contact
 date:           2022-03-01 00:00:00 +0800
 selected:       False
 pub:            "International Journal of Mechanical Sciences, 2022, 217, 107022"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2022"
 
 abstract: >-
