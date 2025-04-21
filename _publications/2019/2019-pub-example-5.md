@@ -1,6 +1,6 @@
 ---
 title: The mechanical design of a hybrid intelligent hinge with shape memory polymer and spring sheet
-date: 2019-02-01 00:00:00 +0800
+date: 2018-02-01 00:00:00 +0800
 selected: false
 pub: "Composites Part B: Engineering, 2018, 134: 1–8"
 pub_last: '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
