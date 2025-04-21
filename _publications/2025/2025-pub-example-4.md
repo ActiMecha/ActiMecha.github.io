@@ -20,7 +20,7 @@ authors:
   - Yafei Wang
   - Xuetao Shi
   - Kai Wu
-  - Ji Liu†
+  - Ji Liu
 links:
   Paper: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202422869
   PDF: assets/pdf/conducting_hydrogel.pdf
