@@ -19,7 +19,7 @@ authors:
   - Zhipeng Ni
   - Yue Tao
   - Yafei Wang
-  - Ji Liu†
+  - Ji Liu
 links:
   Paper: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202400181
   PDF: assets/pdf/wireless_bioelectronics.pdf
