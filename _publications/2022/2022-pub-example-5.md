@@ -3,7 +3,7 @@ title:          Helical micro-swimmer：Hierarchical tail design and propulsive 
 date:           2022-08-15 00:00:00 +0800
 selected:       False
 pub:            "Soft Matter, 2022, 18(33), 6148-6156"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2022"
 
 abstract: >-
