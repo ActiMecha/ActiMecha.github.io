@@ -3,7 +3,7 @@ title:          Bioinspired multiscale regulation for hydrogels with superior me
 date:           2024-11-04 00:00:00 +0800
 selected:       False
 pub:            "The Innovation Materials, 2024, 100105"
-pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
 #pub_date:       "2024"
 
 abstract: >-
