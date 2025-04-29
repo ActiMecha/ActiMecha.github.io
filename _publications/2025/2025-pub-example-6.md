@@ -1,5 +1,5 @@
 ---
-title:          "Conductive Hydrogels with Topographical Geometry and Mechanical Robustness for Enhanced Peripheral Nerve Regeneration"
+title:          "Conductive hydrogels with topographical geometry and mechanical robustness for enhanced peripheral nerve regeneration"
 date:           2025-04-24 00:01:00 +0800
 selected:       False
 pub:            "ACS Nano, 2025, 19(4), 1234-1245"
