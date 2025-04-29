@@ -1,5 +1,3 @@
-以下是严格按照您最初模板的简洁格式生成的版本，保持相同结构和尺寸，并标注通讯作者：
-
 ---
 title:          "Conductive Hydrogels with Topographical Geometry and Mechanical Robustness for Enhanced Peripheral Nerve Regeneration"
 date:           2025-04-24 00:01:00 +0800
