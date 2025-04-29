@@ -8,7 +8,7 @@ pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journ
 abstract: >-
   Fatigue-resistant conductive hydrogel nerve conduits (PVA/PEDOT:PSS) combine topological alignment (>500 S/m conductivity), mechanical robustness (500 J/m² fatigue threshold), and enhanced bioelectrical transmission for peripheral nerve regeneration, achieving 89% functional recovery in rat sciatic nerve models.
 
-cover:          assets/images/covers/2025_conductive_hydrogels.jpg
+cover:          assets/images/covers/2025_conductive_hydrogels.PNG
 authors:
   - Yinghui Feng
   - Liangjie Shan
