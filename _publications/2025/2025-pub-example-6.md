@@ -19,7 +19,7 @@ authors:
   - Chang Wang
   - Ji Liu*
 links:
-  Paper: https://doi.org/10.1021/acsnano.5c12345
+  Paper: https://pubs.acs.org/doi/full/10.1021/acsnano.5c00845
   PDF: assets/pdf/2025_conductive_hydrogels.pdf
   Cite: assets/bibtex/2025_conductive_hydrogels.html
 ---
