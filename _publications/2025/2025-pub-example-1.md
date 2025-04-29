@@ -1,6 +1,6 @@
 ---
 title:          Biodegradable power sources for transient bioelectronics
-date:           2025-12-01 00:01:00 +0800
+date:           2025-01-15 00:01:00 +0800
 selected:       False
 pub:            "Supramolecular Materials, 2024, 4(1), 100082"
 # pub_pre:        "Submitted to "
