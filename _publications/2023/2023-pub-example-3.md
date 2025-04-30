@@ -14,7 +14,7 @@ authors:
   - Zeyi Zhang
   - Zhibo Song
   - Yafei Wang
-  - Changguo Wang†
+  - Changguo Wang
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0020740322008748
   PDF: assets/pdf/smart_helical_swimmer.pdf
