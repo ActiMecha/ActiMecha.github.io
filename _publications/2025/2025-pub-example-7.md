@@ -1,6 +1,6 @@
 ---
-title:          "Mechanically-Compliant Magnetoelectric Sutures for Spatiotemporally Programmable Wound Management"
-date:           2025-06-01  # Approximate publication date if exact day is unknown
+title:          "Mechanically-compliant magnetoelectric sutures for spatiotemporally programmable wound management"
+date:           2025-06-01
 selected:       False
 pub:            "Advanced Functional Materials, 2025, 2510353"
 pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journal</span>'
@@ -8,7 +8,7 @@ pub_last:       '<span class="badge badge-pill badge-custom badge-primary">Journ
 abstract: >-
   We developed magnetoelectric sutures by embedding core-shell magnetoelectric nanoparticles in a piezoelectric P(VDF-TrFE) matrix, enabling on-demand wireless electrical stimulation via magnetic fields. The polyzwitterionic hydrogel coating ensures mechanical compliance (Young’s modulus ≈2.1 kPa, matching human skin) while the magneto-mechano-electric cascade generates programmable electric outputs (peak ≈4.8 V/cm). In vivo tests demonstrate a 40% faster wound closure versus conventional sutures.
 
-cover:          assets/images/covers/2025_magnetoelectric_sutures.png
+cover:          assets/images/covers/2025_magnetoelectric_sutures.jpg
 authors:
   - Yi Yang
   - Ping Wen
