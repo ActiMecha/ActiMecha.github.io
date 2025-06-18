@@ -28,5 +28,5 @@ authors:
 links:
   Paper: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202510353
   PDF: assets/pdf/2025_magnetoelectric_sutures.pdf
-  Cite: assets/bibtex/2025_magnetoelectric_sutures.bib
+  Cite: assets/bibtex/2025_conductive_hydrogels.html
 ---
